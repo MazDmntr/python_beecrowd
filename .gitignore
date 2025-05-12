@@ -1,0 +1,84 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+develop-eggs/
+parts/
+eggs/
+lib/
+lib64/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.whl
+*.manifest
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+virtualenv/
+myvenv/
+instance/
+_build/
+.python-version
+
+# Interpreter binary caches
+__pypackages__/
+.pytest_cache/
+.ipython
+ipython_config.py
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.log
+*.rpt
+*.sqlite
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.db
+local_settings.py
+secret_key.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx stuff:
+docs/_build
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# VS Code
+.vscode/
+
+# OS or Editor related files
+.DS_Store
+Thumbs.db
